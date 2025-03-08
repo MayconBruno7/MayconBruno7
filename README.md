@@ -29,5 +29,4 @@ Sou um Profissional de TI com experiência em suporte computacional, gerenciamen
   
 </div>
 
-## Animação da Cobrinha
 ![Snake animation](https://github.com/MayconBruno7/blob/output/github-contribution-grid-snake.svg)
