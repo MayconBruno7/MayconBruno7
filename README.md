@@ -28,3 +28,6 @@ Sou um Profissional de TI com experiência em suporte computacional, gerenciamen
   <a href="https://www.linkedin.com/in/maycon-bruno-a1ab60232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## Animação da Cobrinha
+![Snake animation](https://github.com/MayconBruno7/MayconBruno7/blob/output/github-contribution-grid-snake.svg)
