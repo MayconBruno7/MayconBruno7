@@ -8,9 +8,11 @@ Sou um Profissional de TI com experiência em suporte computacional, gerenciamen
  • Suporte e Infraestrutura: Gerenciamento de redes, manutenção de hardware e suporte técnico especializado.
 
 📚 Acredito que a tecnologia é a chave para o futuro, e estou sempre pronto para abraçar novos desafios e aprender mais.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconBruno7&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconBruno7&layout=donut&theme=dark)
+<div>
+<a href="https://github.com/MateuslPinheiro">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconBruno7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconBruno7&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MayconBruno7-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
