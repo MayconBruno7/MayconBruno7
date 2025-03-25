@@ -9,7 +9,7 @@ Sou um Profissional de TI com experiência em suporte computacional, gerenciamen
 
 📚 Acredito que a tecnologia é a chave para o futuro, e estou sempre pronto para abraçar novos desafios e aprender mais.
 <div>
-<a href="https://github.com/MateuslPinheiro">
+<a href="https://github.com/MayconBruno7">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconBruno7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconBruno7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
