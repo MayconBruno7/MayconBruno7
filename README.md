@@ -2,9 +2,9 @@
 
 Sou um Profissional de TI com experiência em suporte computacional, gerenciamento de redes e manutenção de dispositivos como impressoras, computadores, notebooks e celulares. Minha trajetória é focada em entregar soluções técnicas eficientes e alinhadas às necessidades do negócio.
 
-💻 Habilidades Técnicas:
+💻 Habilidades Técnicas:<br>
  • Desenvolvimento Web.<br>
- • Linguagens de Programação: JavaScript, PHP, MySQL, Python, Java.
+ • Linguagens de Programação: JavaScript, PHP, MySQL, Python, Java.<br>
  • Suporte e Infraestrutura: Gerenciamento de redes, manutenção de hardware e suporte técnico especializado.
 
 📚 Acredito que a tecnologia é a chave para o futuro, e estou sempre pronto para abraçar novos desafios e aprender mais.
