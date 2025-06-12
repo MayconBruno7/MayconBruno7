@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Maycon+Bruno;Desenvolvedor+de+sistemas;T%C3%A9cnico+de+TI" alt="Typing SVG" />
 </p>
 
-<!-- Apresentação -->
 <p align="center">
   Sou um profissional de TI com sólida experiência em <strong>suporte técnico</strong>, <strong>manutenção de hardware</strong>, <strong>gerenciamento de redes</strong> e <strong>desenvolvimento web</strong>.<br>
   Busco unir conhecimento técnico com foco em resultados práticos e soluções eficientes para os desafios do dia a dia.
@@ -10,18 +9,16 @@
 
 <hr>
 
-<!-- Sobre mim -->
 <p align="center"><strong>💼 Sobre mim</strong></p>
 
 <p align="center">
   🔧 Técnico em informática com vivência prática em ambientes corporativos.<br>
-  🌐 Desenvolvedor web em constante evolução, com projetos próprios e estudos contínuos.<br>
+  🌐 Desenvolvedor em constante evolução, com projetos próprios e estudos contínuos.<br>
   🚀 Apaixonado por tecnologia, inovação e por transformar ideias em soluções reais.
 </p>
 
 <hr>
 
-<!-- Tecnologias -->
 <p align="center"><strong>💻 Tecnologias e Ferramentas</strong></p>
 
 <p align="center">
@@ -38,7 +35,6 @@
 
 <hr>
 
-<!-- GitHub Stats -->
 <p align="center"><strong>📈 GitHub Stats</strong></p>
 
 <p align="center">
@@ -48,7 +44,6 @@
 
 <hr>
 
-<!-- Contatos -->
 <p align="center"><strong>📫 Como me encontrar</strong></p>
 
 <p align="center">
@@ -65,7 +60,6 @@
 
 <hr>
 
-<!-- Frase -->
 <p align="center"><strong>📌 Frase que me representa:</strong></p>
 
 <blockquote align="center">
