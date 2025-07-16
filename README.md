@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Maycon%20Bruno&fontSize=35&fontColor=ffffff&color=0:0F2027,100:2C5364"/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Maycon+Bruno;%F0%9F%91%8B+Desenvolvedor+de+sistemas;%F0%9F%91%8B+T%C3%A9cnico+de+TI" alt="Typing SVG" />
