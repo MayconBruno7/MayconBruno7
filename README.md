@@ -33,10 +33,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Tenho trabalhado com <strong>infraestrutura</strong> e <strong>desenvolvimento web</strong>, participando de projetos que envolvem desde manutenção e configuração de redes até criação de sistemas web funcionais.<br><br>
-  Atualmente estudo <strong>PHP (Laravel, CodeIgniter)</strong>, <strong>JavaScript (Vue.js)</strong> e <strong>MySQL</strong>, com foco em desenvolvimento fullstack.<br><br>
-  Acredito que a prática constante e o aprendizado contínuo são essenciais para crescer como desenvolvedor e como profissional de TI.
+  Tenho trabalhado com <strong>infraestrutura</strong> e <strong>desenvolvimento web</strong>, participando de projetos que envolvem desde manutenção e configuração de redes até a criação de sistemas web funcionais.<br><br>
+  Atuo com <strong>PHP (Laravel, CodeIgniter)</strong>, <strong>JavaScript (Vue.js)</strong> e <strong>MySQL</strong>, desenvolvendo aplicações fullstack e entregando soluções completas para diferentes demandas.<br><br>
 </p>
+
 
 ---
 
