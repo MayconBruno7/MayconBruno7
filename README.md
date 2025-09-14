@@ -23,7 +23,7 @@
 ## 💻 Tecnologias e Ferramentas
 
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
 ### Frameworks, libs e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vue,laravel,nodejs,bootstrap,linux,docker,vscode,git,github)](https://skillicons.dev)
