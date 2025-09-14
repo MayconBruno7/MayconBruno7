@@ -86,9 +86,6 @@ Organizo meus projetos, testes e ideias em repositórios dedicados, com foco em 
   <a href="https://www.linkedin.com/in/maycon-bruno-a1ab60232" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/mayconbrun0_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%233f729b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 <div align="center">
