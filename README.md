@@ -1,103 +1,72 @@
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+o+Maycon+Bruno;%F0%9F%91%8B+Desenvolvedor+de+sistemas;%F0%9F%91%8B+T%C3%A9cnico+de+TI" alt="Typing SVG" />
-</p>
+<h1 align="center">Maycon Bruno</h1>
 
 <p align="center">
-  Sou um profissional de TI com sólida experiência em <strong>suporte técnico</strong>, <strong>manutenção de hardware</strong>, <strong>gerenciamento de redes</strong> e <strong>desenvolvimento web</strong>.<br>
-  Busco unir conhecimento técnico com foco em resultados práticos e soluções eficientes para os desafios do dia a dia.
+  <strong>Full Stack Developer • Infraestrutura de TI</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B4FF&center=true&vCenter=true&width=450&lines=Desenvolvedor+Full+Stack;Especialista+em+Infraestrutura;Sempre+aprendendo+novas+tecnologias" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MayconBruno7&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 💼 Sobre mim
+## 👨‍💻 Sobre
 
-- 🔧 Técnico em informática com vivência prática em ambientes corporativos.
-- 🌐 Desenvolvedor em constante evolução, com projetos próprios e estudos contínuos.
-- 🧠 Estudando e aplicando tecnologias como PHP, JavaScript, Python, Java e banco de dados.
-- 🚀 Apaixonado por tecnologia, inovação e por transformar ideias em soluções reais.
+Sou **Desenvolvedor Full Stack** com experiência na construção de **sistemas web completos**, atuando principalmente no desenvolvimento de aplicações escaláveis e bem estruturadas.
+
+Tenho forte atuação em **backend com PHP**, utilizando **Laravel** e **CodeIgniter 4**, desenvolvendo **APIs REST**, integrações e regras de negócio complexas com foco em organização, performance e escalabilidade.
+
+No **frontend**, trabalho com **Vue.js** e **Vuetify**, criando interfaces modernas, performáticas e orientadas à experiência do usuário.
+
+### 💻 Stack principal
+
+- PHP *(Laravel, CodeIgniter 4)*
+- JavaScript & Vue.js
+- MySQL
+- REST APIs
+- Docker
+- Git
+
+Meu foco é construir **soluções eficientes, bem estruturadas e alinhadas às necessidades do negócio**.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🛠️ Stack
 
-### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
-
-### Frameworks, libs e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vue,laravel,nodejs,bootstrap,linux,docker,vscode,git,github)](https://skillicons.dev)
-
----
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left">
-  Tenho trabalhado com <strong>infraestrutura</strong> e <strong>desenvolvimento web</strong>, participando de projetos que envolvem desde manutenção e configuração de redes até a criação de sistemas web funcionais.<br><br>
-  Atuo com <strong>PHP (Laravel, CodeIgniter)</strong>, <strong>JavaScript (Vue.js)</strong> e <strong>MySQL</strong>, desenvolvendo aplicações fullstack e entregando soluções completas para diferentes demandas.<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,postgres,vue,laravel,nodejs,bootstrap,linux,docker,git,github,vscode&theme=dark&perline=8" />
 </p>
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconBruno7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconBruno7&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs"/>
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=MayconBruno7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayconBruno7/MayconBruno7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayconBruno7/MayconBruno7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayconBruno7/MayconBruno7/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayconBruno7&bg_color=0d1117&color=00bfff&line=1f6feb&point=1f6feb&area=true&area_color=1f6feb&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MayconBruno7&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=MayconBruno7&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
----
-
-## 📚 Meus Estudos
-
-Organizo meus projetos, testes e ideias em repositórios dedicados, com foco em aprendizado contínuo.
-
-> Desenvolver é mais do que codar: é resolver problemas e construir o futuro com tecnologia. 🚀
-
----
-
-## 📫 Como me encontrar
+## 📫 Contato
 
 <p align="center">
-  <a href="mailto:mayconbruno519@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:mayconbruno519@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/maycon-bruno-a1ab60232" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/maycon-bruno-a1ab60232">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MayconBruno7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MayconBruno7.MayconBruno7&left_color=1f6feb&right_color=0d1117" width="80" />
-</div>
-
 ---
 
-## 📌 Frase que me representa
-
-<blockquote align="center">
-  “A tecnologia move o mundo — e estou aqui para mover a tecnologia junto com ele.” 🚀
-</blockquote>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,100:2C5364"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0ea5e9,100:2563eb&section=footer"/>
+</p>
