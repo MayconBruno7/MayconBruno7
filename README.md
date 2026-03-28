@@ -24,7 +24,7 @@ No **frontend**, trabalho com **Vue.js** e **Vuetify**, criando interfaces moder
 
 ### 💻 Stack principal
 
-- PHP *(Laravel, CodeIgniter 4)*
+- PHP *(Laravel)*
 - JavaScript & Vue.js
 - MySQL
 - REST APIs
